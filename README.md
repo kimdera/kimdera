@@ -23,6 +23,7 @@ I enjoy creating projects and new features that automize boring processes.
 <img align="left" alt="VisualBasic" width="26px" src="https://banner2.cleanpng.com/20180820/rta/kisspng-microsoft-visual-studio-lightswitch-visual-basic-t-net-for-android-app-app-5b7a3d62df89b8.6322733615347377629156.jpg" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+<img align="left" alt="OracleNS" width="26px" src="https://www.codein.fr/var/codein/storage/images/_aliases/opengraph_20181210/6/5/6/1/11656-3-fre-FR/netbox.png" />
 <img align="left" alt="OracleNS" width="26px" src="https://logos-world.net/wp-content/uploads/2021/09/NetSuite-Emblem.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Sass" width="26px" 
