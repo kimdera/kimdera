@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Websites, Devops, Microservices and JS/Python Projects.**
 
-- 💡 You can checkout my website at [KimDera](Kimdera.com)
+- 💡 You can checkout my website at Kimdera.com
 
 - ⚡ Fun fact **I enjoy archery & photography.**
 
